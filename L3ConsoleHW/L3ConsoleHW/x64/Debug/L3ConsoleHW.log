@@ -1,0 +1,4 @@
+﻿  L3ConsoleHW.cpp
+C:\Users\user\Desktop\STEP\cpp\L3ConsoleHW\L3ConsoleHW.cpp(116,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\STEP\cpp\L3ConsoleHW\L3ConsoleHW.cpp(121,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  L3ConsoleHW.vcxproj -> C:\Users\user\Desktop\STEP\cpp\L3ConsoleHW\x64\Debug\L3ConsoleHW.exe
